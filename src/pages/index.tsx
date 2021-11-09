@@ -20,7 +20,7 @@ const Home: NextPage<HomeProps> = ({ product }) => {
 
       <main className={styles.contentContainer}>
         <section className={styles.hero}>
-          <span>👏 Hey, a</span>
+          <span>👏 Hey, Welcome</span>
           <h1>
             News about the <span>React</span> world.
           </h1>
